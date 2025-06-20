@@ -1,9 +1,9 @@
 # idea ignore
-.idea/@tegict
+.idea/https://core.telegram.org/tegict
 *.ipr
 *.iml
 *.iws
-.vscode/telegram
+.vscode/
 
 # temp ignore
 *.log
