@@ -1,9 +1,9 @@
 # idea ignore
-.idea/
+.idea/@tegict
 *.ipr
 *.iml
 *.iws
-.vscode/
+.vscode/telegram
 
 # temp ignore
 *.log
